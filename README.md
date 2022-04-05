@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### Im excited to see what labs we are going to have for the class
+#### Im ready to learn more about java
 
 <!--
 **MattA41/MattA41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
