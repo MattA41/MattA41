@@ -1,4 +1,8 @@
-### Hi im a student ewu working on getting a degree in comp sci
+Hi I'm a student at Eastern Washington University working on getting a degree in Computer Science
+
+### About me
+I have been interested in computers for a long time. In high school, I took classes in game design, computer science, and computer repair. Working with computers is something I enjoy doing.
+This Git hub is a few of my school projects. I am saving a few of them to document How I have learned and what kind of programs I have created.
 
 <!--
 **MattA41/MattA41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
