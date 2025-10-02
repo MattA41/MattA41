@@ -1,7 +1,7 @@
-## My Name is Matt, I'm a student at Eastern Washington University getting a degree in Computer Science and a minor in computer science
+## My Name is Matt. I'm a recent graduate of Eastern Washington University, holding a degree in Computer Science and a minor in Cybersecurity. I am currently looking for my first job in the industry
 
 ### About me
-I have been interested in computers for a long time. In high school, I took game design, computer science, and computer repair classes. I am passionate about computers and love working with them.
+I have been interested in computers for a long time. During my studies, I took courses in game design, web development, and cybersecurity, and I worked as an IT specialist for the school. I am passionate about computers and love working with them.
 
 These Git hub repos are a few of my school projects. I am saving a few of them to document what I have learned and what kind of programs I have created.
 
