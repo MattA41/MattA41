@@ -4,7 +4,7 @@
 I have been interested in computers for a long time. During my studies, I took courses in game design, web development, and cybersecurity, and I worked as an IT specialist for the school. I am passionate about computers and love working with them.
 
 These Git hub repos are a few of my school projects. I am saving a few of them to document what I have learned and what kind of programs I have created.
-
+- 🔭 I’m currently working on creating a portfolio website using the Nuxt framework
 <!--
 **MattA41/MattA41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
